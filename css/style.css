@@ -1,0 +1,241 @@
+body{
+    overflow-x: hidden;
+}
+nav{
+    height: 95px;
+    background-color: #FFF !important;
+}
+
+.image{
+    margin-left: 5%;
+    height: 58px !important;
+}
+
+.navbar-nav{
+    padding-top: 3%;
+}
+
+.wow{
+    background: url("");
+}
+
+.text{ 
+    position: absolute; 
+    top: 200px; 
+    left: 0; 
+    width: 100%; 
+    color: #FFF;
+    padding-left: 5%;
+    font-size: 48px;
+    line-height: 59px;
+    font-weight: 800;
+
+ }
+
+.lol{
+    font-size: 16px;
+    color: #1E1E96 !important;
+}
+
+ .p-1{
+    position: absolute; 
+    top: 320px; 
+    left: 0; 
+    width: 100%; 
+    color: #FFF;
+    margin-left: 5%;
+    font-size: 28px;
+    line-height: 34px;
+ }
+
+ .upper{
+      margin-top: 10%;
+     padding-left: 5%;
+     padding-right: 5%; 
+ }
+
+ .card{
+     height: 354px;
+     width: 370px;
+     border-radius: 15px 15px 15px 15px;
+ }
+
+ .lol{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .card-subtitle{
+     color: #1E1E96;
+     line-height: 40px;
+     text-align: left;
+     font-size: 24px;
+ }
+
+ .card-text{
+     font-size: 16px;
+     color: #333333;
+ }
+
+ .yupp{
+     padding-top: 10%;
+ }
+
+ .p-2{
+    position: absolute; 
+    top: 1250px; 
+    left: 0; 
+    width: 100%; 
+    padding-right: 30% !important;
+    padding-left: 30% !important; 
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    line-height: 34px;
+ }
+
+ .hr{
+    margin-left: 45%;
+     position: absolute;
+     top: 1225px;
+    width: 100px;
+    border: 4px solid #00FFC8;
+ }
+
+ .btn-primary{
+     background-color: #00FFC8 !important;
+     margin-left: 65%;
+     position: absolute;
+     top: 1400px;
+     border-radius: 50px 50px;
+     color: #1E1E96;
+     border-color: #00FFC8;
+ }
+
+ .form-inline{
+     margin-top: -40px !important;
+     position: relative;
+     left: 800px;
+ }
+
+ .qwerty{
+     font-size: 36px;
+     color: #1E1E96;
+     font-weight: 700;
+
+ }
+
+ .qax{
+     font-size: 16px;
+     line-height: 28px;
+ }
+
+ .stap{
+     color: #1E1E96;
+     font-size: 24px;
+ }
+
+ .jumbotron{
+     border-radius: 20px 20px 20px 20px;
+     width: 370px;
+     height:282px;
+ }
+
+ .number{
+     font-weight: bold;
+     color: #1E1E96;
+     font-size: 40px;
+ }
+
+ .odee{
+     margin-top: -40px !important;
+ }
+
+ .btn-wow{
+    background-color: #00FFC8 !important;
+    border-radius: 50px 50px;
+    color: #1E1E96;
+    border-color: #00FFC8;
+    margin-left: 34%;
+ }
+ @media only screen and (max-width: 600px) {
+   .card{
+       width: 80%;
+       height: 100%;
+       margin-top: 20px;
+       margin-left: 20px;
+   }
+
+   .lol{
+       height: 40px;
+       width: 40px;
+   }
+
+   .card-subtitle{
+       font-size: 20px;
+       line-height: 20px;
+       margin-top: 1%;
+   }
+
+   .card-text{
+      font-size: 12px; 
+   }
+
+   .img-fluid{
+       width: 80%;
+       height: auto;
+   }
+   
+   .text{ 
+    position: absolute; 
+    top: 100px; 
+    left: 0; 
+    width: 100%; 
+    color: #FFF;
+    padding-left: 5%;
+    font-size: 16px;
+    line-height: 15px;
+    font-weight: 500;
+
+ }
+
+ .p-1{
+    position: absolute; 
+    top: 130px; 
+    left: 0; 
+    width: 100%; 
+    color: #FFF;
+    margin-left: 18px;
+    padding-left: 5%;
+    font-size: 12px;
+    line-height: 17px;
+ }
+
+ .btn-primary{
+    background-color: #00FFC8 !important;
+    border-radius: 50px 50px;
+    color: #1E1E96;
+    border-color: #00FFC8;
+    display: none;
+}
+
+.hr{
+     position: absolute;
+     top: 1225px;
+    width: 100px;
+    border: 4px solid #00FFC8;
+    display: none;
+ }
+
+ .image{
+    height: 48px !important;
+    padding-right: 2%;
+    margin-left: -10px;
+}
+
+ /* .navbar-toggler{
+     margin-right: 18% !important;
+ } */
+   
+}
